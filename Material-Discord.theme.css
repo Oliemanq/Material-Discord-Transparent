@@ -1,13 +1,8 @@
 /**
- * @name Material Discord
- * @version 3.0.5
- * @description A theme based on Google's Material Design
- * @author CapnKitten
- *
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/css/source.css
- * @donate https://paypal.me/capnkitten
- * @invite jzJkA6Z
+ * @name Test Material Discord with transparency
+ * @version 0.0.1
+ * @description A theme based on Google's Material Design, remade to be transparent.
+ * @author Oliemanq
  */
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
@@ -35,7 +30,9 @@
 	--accent-hue: 227;
 	--accent-saturation: 71%;
 	--accent-lightness: 61%;
+
 	--accent-transparency: 0.5;
+
 	--accent-text-color: hsl(0,0%,100%); /* DOES NOTHING WITH MATERIAL YOU ENABLED */
 	--accent-button-action: hsl(0,0%,100%);
 
